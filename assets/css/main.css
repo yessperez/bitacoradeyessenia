@@ -2166,9 +2166,7 @@ input, select, textarea {
 		position: relative;
 	}
 
-		.image img {
-			display:;
-		}
+	
 
 		.image.left, .image.right {
 			max-width: 30%;
@@ -2908,8 +2906,8 @@ input, select, textarea {
 		padding-left: 3.25em;
 		position: relative;
 		text
-		background-color: #e80f23;
-	     }
+
+    }
 
 		.contact-method .icon {
 			left: 0;
